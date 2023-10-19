@@ -1,0 +1,53 @@
+body{
+    font-size: 26px;
+    font-family: Impact ;
+}
+
+p  {
+
+    color:rgba(84, 68, 109, 0.955);
+    margin: 25px ;
+} 
+
+h1 {
+    color:rgba(220, 20, 150, 0.955);
+    font-size: 30px; 
+    
+} 
+
+a {
+    text-decoration:solid;
+    color:tomato;
+    display: inline-block;
+    border-bottom: 1px solid transparent;
+    transition: 0,2 ease-in;
+}
+
+a:hover {
+    border-bottom-color: #af2b19;
+
+
+}
+
+.ha{
+    display: block;
+}
+
+
+div  {
+  width:90% ;
+  margin: auto;
+  padding: 50px ;
+  background-color: #F5E8B7;
+  box-shadow:0 0 10px gray ;
+}    
+
+img{
+   max-width: 100% ;
+   height: auto;
+   display: block ;
+  
+}
+
+
+
